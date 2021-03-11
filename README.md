@@ -1,0 +1,2 @@
+# Voice-Assistant
+I have created a “Voice Assistant” application like Alexa &amp; Siri using python 3, using various libraries such as SpeechRecognition allows Python to access audio from your system’s microphone, transcribe the audio, and save it, Google’s text-to-speech package, converts your audio questions to text, Playsound package is used to give voice to the answer, Web browser package provides a high-level interface that allows displaying Web-based pages to users, Google’s text-to-speech package, to convert your audio into mail content.
